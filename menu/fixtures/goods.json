@@ -1,0 +1,197 @@
+[
+  {
+    "model": "menu.menu",
+    "pk": 1,
+    "fields": {
+      "name": "Жаркое",
+      "image": "products_images/j.png",
+      "description": "",
+      "short_description": "Азиатская кухня",
+      "price": "450.00",
+      "quantity": 10,
+      "category": 3
+    }
+  },
+  {
+    "model": "menu.menu",
+    "pk": 2,
+    "fields": {
+      "name": "Салат с креветкой",
+      "image": "products_images/sk.png",
+      "description": "",
+      "short_description": "Азиатская кухня",
+      "price": "400.00",
+      "quantity": 10,
+      "category": 5
+    }
+  },
+  {
+    "model": "menu.menu",
+    "pk": 3,
+    "fields": {
+      "name": "Плов с говядиной",
+      "image": "products_images/plov_g.jpg",
+      "description": "",
+      "short_description": "восточная кухня",
+      "price": "350.00",
+      "quantity": 10,
+      "category": 3
+    }
+  },
+  {
+    "model": "menu.menu",
+    "pk": 4,
+    "fields": {
+      "name": "Салат с баклажаном",
+      "image": "products_images/swb.jpg",
+      "description": "",
+      "short_description": "Азиатская кухня",
+      "price": "400.00",
+      "quantity": 15,
+      "category": 8
+    }
+  },
+  {
+    "model": "menu.menu",
+    "pk": 5,
+    "fields": {
+      "name": "Мохито",
+      "image": "products_images/mo.png",
+      "description": "",
+      "short_description": "Холодный напиток с лаймом",
+      "price": "200.00",
+      "quantity": 10,
+      "category": 8
+    }
+  },
+  {
+    "model": "menu.menu",
+    "pk": 6,
+    "fields": {
+      "name": "Моти на палочках",
+      "image": "products_images/moti.png",
+      "description": "",
+      "short_description": "Азиатская кухня",
+      "price": "400.00",
+      "quantity": 16,
+      "category": 9
+    }
+  },
+  {
+    "model": "menu.menu",
+    "pk": 7,
+    "fields": {
+      "name": "Сакура в цвету",
+      "image": "products_images/svs.png",
+      "description": "",
+      "short_description": "Азиатская кухня",
+      "price": "500.00",
+      "quantity": 5,
+      "category": 9
+    }
+  },
+  {
+    "model": "menu.menu",
+    "pk": 8,
+    "fields": {
+      "name": "Мисо суп",
+      "image": "products_images/miso.png",
+      "description": "",
+      "short_description": "Популярный суп с баклажаном в азии",
+      "price": "450.00",
+      "quantity": 12,
+      "category": 4
+    }
+  },
+  {
+    "model": "menu.menu",
+    "pk": 9,
+    "fields": {
+      "name": "Рамен с курицей",
+      "image": "products_images/R.png",
+      "description": "",
+      "short_description": "символ всех блюд суп с лапшой",
+      "price": "200.00",
+      "quantity": 20,
+      "category": 4
+    }
+  },
+  {
+    "model": "menu.menu",
+    "pk": 10,
+    "fields": {
+      "name": "Холодная вода",
+      "image": "products_images/voda.png",
+      "description": "",
+      "short_description": "чистая вода",
+      "price": "80.00",
+      "quantity": 30,
+      "category": 7
+    }
+  },
+  {
+    "model": "menu.menu",
+    "pk": 11,
+    "fields": {
+      "name": "Кола",
+      "image": "products_images/cola.png",
+      "description": "",
+      "short_description": "газированный напиток со льдом",
+      "price": "100.00",
+      "quantity": 15,
+      "category": 7
+    }
+  },
+  {
+    "model": "menu.menu",
+    "pk": 12,
+    "fields": {
+      "name": "Фанта",
+      "image": "products_images/fanta.png",
+      "description": "",
+      "short_description": "газированный напиток со льдом",
+      "price": "100.00",
+      "quantity": 15,
+      "category": 7
+    }
+  },
+  {
+    "model": "menu.menu",
+    "pk": 13,
+    "fields": {
+      "name": "черный чай",
+      "image": "products_images/ch.png",
+      "description": "",
+      "short_description": "чай эрл-грей",
+      "price": "60.00",
+      "quantity": 10,
+      "category": 6
+    }
+  },
+  {
+    "model": "menu.menu",
+    "pk": 14,
+    "fields": {
+      "name": "Челёный чай",
+      "image": "products_images/z.png",
+      "description": "",
+      "short_description": "восточный край",
+      "price": "70.00",
+      "quantity": 20,
+      "category": 6
+    }
+  },
+  {
+    "model": "menu.menu",
+    "pk": 15,
+    "fields": {
+      "name": "Латте",
+      "image": "products_images/l.png",
+      "description": "",
+      "short_description": "кофе",
+      "price": "110.00",
+      "quantity": 12,
+      "category": 6
+    }
+  }
+]
